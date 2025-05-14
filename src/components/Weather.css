@@ -69,3 +69,10 @@
     width: 26px;
     font-size: 10px;
 }
+
+.description {
+  font-size: 18px;
+  margin: 5px 0;
+  color: #302a2a;
+  text-transform: capitalize;
+}
