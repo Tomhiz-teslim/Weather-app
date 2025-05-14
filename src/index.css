@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Carter+One&family=Kablammo&family=Lobster&family=Merienda:wght@300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pixelify+Sans:wght@400..700&family=Rubik+Wet+Paint&family=Updock&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Aladin", system-ui;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: #e2d4ff;
+}
